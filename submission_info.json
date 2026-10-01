@@ -1,4 +1,4 @@
 {
-  "name": "강용제",
-  "model_name": "FlyBrain_Trainable_ConnectomeRNN_256"
+  "name": "실험자1",
+  "model_name": "FlyBrain_V2_MAE_Physics_3Grid_ResidualOOF"
 }
