@@ -1,4 +1,4 @@
 {
-  "name": "홍길동",
-  "model_name": "Baseline"
+  "name": "박찬준",
+  "model_name": "L1 + LDAPS3 + TimeFeatures"
 }
