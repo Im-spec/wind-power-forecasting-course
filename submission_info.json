@@ -1,4 +1,4 @@
 {
-  "name": "홍길동",
-  "model_name": "Baseline"
+  "name": "조건희",
+  "model_name": "LGBM-resid-direct-ensemble"
 }
